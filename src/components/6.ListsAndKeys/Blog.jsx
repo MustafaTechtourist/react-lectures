@@ -1,4 +1,6 @@
-import React from 'react'
+import React from 'react';
+
+import Post from './Post';
 
 const posts = [
   {id: 1, title: 'Hello World', content: 'Welcome to learning React!'},
